@@ -19,3 +19,9 @@
 [![](https://komarev.com/ghpvc/?username=agni-glitch&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Agni-glitch/Agni-glitch/output/github-contribution-grid-snake.svg)
+
